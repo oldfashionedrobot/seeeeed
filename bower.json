@@ -1,0 +1,16 @@
+{
+  "name": "seeeeed",
+  "version": "1.0.0",
+  "authors": [
+    "Sanjeev Nayak <sanjeev@oldfashionedrobot.com>"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.3.10"
+  }
+}
